@@ -6,6 +6,9 @@ git # Git Flow
 * Get comfortable creating, merging, pushing, and pulling branches
 * Resolve merge conflicts
 
+##Lauren here 
+(╯°□°）╯︵ ┻━┻
+
 ## Instructions
 
 Remember to fork and clone this lab if you haven't already.
